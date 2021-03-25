@@ -1,4 +1,9 @@
 # fdalab.github.io
-
+Data Analytics
+--------------
 Just a bunch of academic lab assignments.
-Used Jupyter Notebook and Python during the course.
+
+R Programming
+--------------
+Kaggle
+Jupyter Notebook
