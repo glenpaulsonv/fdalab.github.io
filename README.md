@@ -1,5 +1,5 @@
 # fdalab.github.io
-Data Analytics
+Data Analysis
 --------------
 Just a bunch of academic lab assignments.
 
